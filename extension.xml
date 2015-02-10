@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>KS Admin Tab</name>
+        <version>0.1-alpha</version>
+        <copyright>Copyright (C) 2015 Kamil Szymański</copyright>
+        <license>GNU General Public License v2.0</license>
+        <info_url>http://github.com/eeree</info_url>
+    </metadata>
+</software>
